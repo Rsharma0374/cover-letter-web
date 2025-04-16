@@ -22,7 +22,7 @@ const DetailForm = () => {
         }
 
         const payload = {
-            sFiestName: firstName,
+            sFirstName: firstName,
             sLastName: lastName,
             sCompanyName: companyName,
             sHireManagerName: managerName,
